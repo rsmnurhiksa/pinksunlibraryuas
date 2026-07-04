@@ -1,0 +1,36 @@
+libraryhub/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   └── img/
+│
+├── config/
+│   └── koneksi.php
+│
+├── database/
+│   └── libraryhub.sql
+│
+├── auth/
+│   ├── login.php
+│   ├── register.php
+│   ├── logout.php
+│   └── session.php
+│
+├── kategori/
+│   ├── index.php
+│   ├── tambah.php
+│   ├── edit.php
+│   └── hapus.php
+│
+├── buku/
+│   ├── index.php
+│   ├── tambah.php
+│   ├── edit.php
+│   └── hapus.php
+│
+├── dashboard.php
+├── index.php
+├── README.md
+└── .gitignore
